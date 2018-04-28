@@ -1,0 +1,22 @@
+{
+  "name": "he-control-prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendezdev/he-control-prices.git"
+  },
+  "author": "Pablo Mendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mendezdev/he-control-prices/issues"
+  },
+  "homepage": "https://github.com/mendezdev/he-control-prices#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
