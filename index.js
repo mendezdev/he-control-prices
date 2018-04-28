@@ -3,6 +3,7 @@ const mongoose = require('mongoose')
 const app = express();
 
 const keys = require('./config/keys')
+require('./models/User')
 
 mongoose.Promise = global.Promise
 mongoose.connect(keys.mongoURI)
